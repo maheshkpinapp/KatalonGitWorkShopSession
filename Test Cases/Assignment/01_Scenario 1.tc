@@ -54,4 +54,11 @@
       <masked>false</masked>
       <name>url</name>
    </variable>
+   <variable>
+      <defaultValue>'NewVariable'</defaultValue>
+      <description></description>
+      <id>c65f6780-06df-4bf7-806b-ea5bb0690699</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
 </TestCaseEntity>
